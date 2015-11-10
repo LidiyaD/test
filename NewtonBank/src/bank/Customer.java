@@ -2,6 +2,11 @@ package bank;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author Lidiya
+ *
+ */
 public class Customer {
 	private String name;
 	private long pNr;
